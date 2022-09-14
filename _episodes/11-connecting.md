@@ -308,7 +308,7 @@ See the [PuTTY documentation][putty-agent].
 > ## Baskerville
 > 
 > For Baskerville, please paste your **public** SSH key into [Baskerville Admin](https://admin.baskerville.ac.uk/)
-> under the `'Configure account / reset password'` link. and disregard the **s**ecure **c**o**p**y tool below.
+> under the `'Configure account / reset password'` link and disregard the **s**ecure **c**o**p**y tool below.
 {: .callout}
 
 {% if site.remote.portal %}
@@ -333,7 +333,7 @@ supplied by the instructors.
 ```
 {: .language-bash}
 
-You may be asked for your password, or a One Time Passcode for Multi Factor Authentication. Watch out: the characters you type after
+You may be asked for your password, and/or a One Time Passcode for Multi Factor Authentication. Watch out: the characters you type after
 the password prompt are not displayed on the screen. Normal output will resume
 once you press `Enter`.
 
